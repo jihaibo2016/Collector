@@ -1,0 +1,7 @@
+
+--ZIP package
+mvn install assembly:assembly
+
+
+--comm package on linux  (rxtx)
+
